@@ -27,3 +27,6 @@ This is the accompanying HTML from Kevin Powell's Codepen [HERE](https://codepen
 
 ### For Clip Paths
 - See [THIS](https://unused-css.com/tools/clip-path-generator) website for producing clip-paths.
+- 
+### For `clamp()`
+- See [THIS](https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/) tool (scroll down to the end) for coming up with `clamp()` values more easily.
