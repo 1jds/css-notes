@@ -48,6 +48,8 @@ This is the accompanying HTML from Kevin Powell's Codepen [HERE](https://codepen
 }
 ```
 
+
+<img max-width: 50% alt="illustration of result when the first-child is the last rule" src="https://github.com/1jds/css-notes/blob/main/last-child-as-last-rule.png?raw=true">
 <img alt="illustration of result when the first-child is the last rule" src="https://github.com/1jds/css-notes/blob/main/first-child-as-last-rule-declared.png?raw=true">
 
 ```css
