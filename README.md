@@ -48,6 +48,8 @@ This is the accompanying HTML from Kevin Powell's Codepen [HERE](https://codepen
 }
 ```
 
+<img alt="illustration of result when all properties are declared" src="https://github.com/1jds/css-notes/blob/main/first-child.png?raw=true">
+
 ```css
 .specificBookComment:last-child {
   border-radius: 0 0 0.5rem 0.5rem;
@@ -57,6 +59,8 @@ This is the accompanying HTML from Kevin Powell's Codepen [HERE](https://codepen
   border-radius: 0.5rem 0.5rem 0 0;
 }
 ```
+
+<img alt="illustration of result when all properties are declared" src="https://github.com/1jds/css-notes/blob/main/all-on.png?raw=true">
 
 ```css
 .specificBookComment:first-child {
