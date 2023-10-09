@@ -48,7 +48,7 @@ This is the accompanying HTML from Kevin Powell's Codepen [HERE](https://codepen
 }
 ```
 
-<img alt="illustration of result when all properties are declared" src="https://github.com/1jds/css-notes/blob/main/first-child.png?raw=true">
+<img alt="illustration of result when the first-child is the last rule" src="https://github.com/1jds/css-notes/blob/main/first-child-as-last-rule-declared.png?raw=true">
 
 ```css
 .specificBookComment:last-child {
