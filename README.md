@@ -48,7 +48,7 @@ This is the accompanying HTML from Kevin Powell's Codepen [HERE](https://codepen
 }
 ```
 
-<img alt="illustration of result when the first-child is the last rule" src="https://github.com/1jds/css-notes/blob/main/last-child-as-last-rule.png?raw=true" width:"50%">
+<img alt="illustration of result when the first-child is the last rule" src="https://github.com/1jds/css-notes/blob/main/last-child-as-last-rule.png?raw=true" width:"200">
 
 ```css
 .specificBookComment:last-child {
@@ -60,7 +60,7 @@ This is the accompanying HTML from Kevin Powell's Codepen [HERE](https://codepen
 }
 ```
 
-<img alt="illustration of result when the first-child is the last rule" src="https://github.com/1jds/css-notes/blob/main/first-child-as-last-rule-declared.png?raw=true" width:"50%">
+<img alt="illustration of result when the first-child is the last rule" src="https://github.com/1jds/css-notes/blob/main/first-child-as-last-rule-declared.png?raw=true" width:"200">
 
 ```css
 .specificBookComment:first-child {
@@ -76,4 +76,4 @@ This is the accompanying HTML from Kevin Powell's Codepen [HERE](https://codepen
 }
 ```
 
-<img alt="illustration of result when all properties are declared" src="https://github.com/1jds/css-notes/blob/main/all-on.png?raw=true" width:"50%">
+<img alt="illustration of result when all properties are declared" src="https://github.com/1jds/css-notes/blob/main/all-on.png?raw=true" width:"200">
