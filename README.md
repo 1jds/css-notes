@@ -23,6 +23,13 @@ This is the accompanying HTML from Kevin Powell's Codepen [HERE](https://codepen
       </div>
 ```
 
+- ### Responsive Images Universal
+```CSS
+  img {
+    max-width: 100%;
+  }
+```
+
 ## Some Online Tools
 
 ### For Clip Paths
