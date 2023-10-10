@@ -25,9 +25,11 @@ This is the accompanying HTML from Kevin Powell's Codepen [HERE](https://codepen
 
 - ### Responsive Images Universal
 ```CSS
-  img {
-    max-width: 100%;
-  }
+img {
+  max-width: 100%;
+}
+
+/* Kevin uses this on a lot of his sites to make sure that images are always able to shrink if they need to. */
 ```
 
 ## Some Online Tools
